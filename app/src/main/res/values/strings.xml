@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">About Android</string>
+    <string name="name">Ravee</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+    <string name="bio">
+         <![CDATA[
+         <p>
+        <b>Android</b> is a <i>mobile operating system</i> based on a modified version of the Linux kernel
+        and other open source software, designed primarily for touchscreen mobile devices such as smartphones
+        and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance and
+        commercially sponsored by Google. It was unveiled in November 2007, with the first commercial Android
+        device, the HTC Dream, being launched in September 2008.
+        <p>
+
+        <p>
+        Most versions of Android are proprietary. The core components are taken from the Android Open
+        Source Project (AOSP), which is free and open-source software (FOSS) primarily licensed under
+        the Apache License. When Android is actually installed on devices, ability to modify the
+        otherwise FOSS software is usually restricted, either by not providing the corresponding source
+        code or preventing reinstallation through technical measures, rendering the installed version
+        proprietary. Most Android devices ship with additional proprietary software pre-installed,
+        most notably Google Mobile Services (GMS)which includes core apps such as Google Chrome,
+        the digital distribution platform Google Play, and associated Google Play Services development
+        platform.
+        </p>
+        <p>
+        Over 70 percent of Android smartphones run Google\'s ecosystem; some with vendor-customized
+        user interface and software suite, such as TouchWiz and later One UI by Samsung, and HTC Sense.
+        Competing Android ecosystems and forks include Fire OS (developed by Amazon) or LineageOS.
+        However the "Android" name and logo are trademarks of Google which imposes standards to restrict
+        the use of Android branding by "uncertified" devices outside their ecosystem.
+        </p>
+        <p>
+        The source code has been used to develop variants of Android on a range of other electronics,
+        such as game consoles, digital cameras, portable media players, PCs, each with a specialized
+        user interface. Some well known derivatives include Android TV for televisions and Wear OS
+        for wearables, both developed by Google. Software packages on Android, which use the APK
+        format, are generally distributed through proprietary application stores like Google Play Store,
+         Amazon Appstore (including for Windows 11), Samsung Galaxy Store, Huawei AppGallery,
+         Cafe Bazaar, and GetJar, or open source platforms like Aptoide or F-Droid.
+        </p>
+        <p>
+        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013.
+         As of May 2021, it has over three billion monthly active users, the largest installed base of any
+         operating system, and as of January 2021, the Google Play Store features over 3 million apps.
+         Android 12, released on October 4, 2021, is the latest version.
+        </p>
+    ]]>
+    </string>
+    <string name="what_is_your_nick_name">What is your nick name?</string>
+    <string name="done">Done</string>
+</resources>
